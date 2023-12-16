@@ -16,10 +16,7 @@ int main(){
 
     printf("The Cube of %d is %d", base, result);
 
-
-
 }
-
 
 int cube(int base){
     int base;
