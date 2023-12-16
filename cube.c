@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 //By: Harishan Thilakanathan
-//Purpose:
+//Purpose: cube the number given by the user
 //Date: Friday, Decemeber 15, 2023
 
 int main(){
